@@ -12,11 +12,16 @@
 .swiftpm/
 migrate_working_dir/
 
-# IntelliJ related
+# Flutter crash logs
+flutter_*.log
+
+# IDE files
 *.iml
+.idea/
+
+# IntelliJ related
 *.ipr
 *.iws
-.idea/
 
 # The .vscode folder contains launch configuration and tasks you configure in
 # VS Code which you may wish to be included in version control, so this line
@@ -32,6 +37,10 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
+
+# Generated files
+**/*.g.dart
+**/*.freezed.dart
 
 # iOS related
 **/ios/Pods/
