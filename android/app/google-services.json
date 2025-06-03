@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "197901175414",
+    "project_id": "logifit-health-app",
+    "storage_bucket": "logifit-health-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197901175414:android:1dc1b4602dfc1187822d57",
+        "android_client_info": {
+          "package_name": "com.logifit.health.logifit_health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197901175414-921ep0nvr54khr9q18a960cbe1b96i2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5D5uuqiYIg8Ugc8HhD1tUaUGQoclR0rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197901175414-921ep0nvr54khr9q18a960cbe1b96i2h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "197901175414-j0qm7trjn8ei58jcqukuvecm5lt9db9f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.logiflex.logifithealth"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197901175414:android:c7b17303ed12d357822d57",
+        "android_client_info": {
+          "package_name": "com.logiflex.consulting.logifithealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197901175414-921ep0nvr54khr9q18a960cbe1b96i2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5D5uuqiYIg8Ugc8HhD1tUaUGQoclR0rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197901175414-921ep0nvr54khr9q18a960cbe1b96i2h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "197901175414-j0qm7trjn8ei58jcqukuvecm5lt9db9f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.logiflex.logifithealth"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197901175414:android:a513450161bc3eae822d57",
+        "android_client_info": {
+          "package_name": "com.logiflex.logifithealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197901175414-921ep0nvr54khr9q18a960cbe1b96i2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5D5uuqiYIg8Ugc8HhD1tUaUGQoclR0rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197901175414-921ep0nvr54khr9q18a960cbe1b96i2h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "197901175414-j0qm7trjn8ei58jcqukuvecm5lt9db9f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.logiflex.logifithealth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
